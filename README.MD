@@ -6,7 +6,7 @@
 Projeto com o objetivo de criar uma planilha financeira para visualização dos dados na forma de dashboard.
 
 
-[📕Clique aqui para ouvir o podcast](https://raw.githack.com/R0d-C/prompts_for_podcast/main/assets/index.html)
+[📕Clique aqui para ab rir a planilha](Dashboard.xlsx)
 
 ## 💻 Tecnologias utilizadas no projeto
 
