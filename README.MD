@@ -1,7 +1,7 @@
 
 # Projeto Dashboard Simples em Excel
 
->ℹ️ **NOTA:** Este é o repositório desenvolvido durante curso na plataforma da [DIO](https://dio.me)
+>ℹ️ **NOTA:** Este repositório foi desenvolvido durante curso na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de criar uma planilha financeira para visualização dos dados na forma de dashboard.
 
