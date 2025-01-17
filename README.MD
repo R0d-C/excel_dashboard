@@ -6,7 +6,7 @@
 Projeto com o objetivo de criar uma planilha financeira para visualização dos dados na forma de dashboard.
 
 
-[📕Clique aqui para ab rir a planilha](Dashboard.xlsx)
+[📕Clique aqui para fazer o download da planilha](Dashboard.xlsx)
 
 ## 💻 Tecnologias utilizadas no projeto
 
